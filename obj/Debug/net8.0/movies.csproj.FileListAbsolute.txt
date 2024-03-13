@@ -1,0 +1,14 @@
+C:\Users\TIMMYTOBS\movies\bin\Debug\net8.0\movies.exe
+C:\Users\TIMMYTOBS\movies\bin\Debug\net8.0\movies.deps.json
+C:\Users\TIMMYTOBS\movies\bin\Debug\net8.0\movies.runtimeconfig.json
+C:\Users\TIMMYTOBS\movies\bin\Debug\net8.0\movies.dll
+C:\Users\TIMMYTOBS\movies\bin\Debug\net8.0\movies.pdb
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.AssemblyInfoInputs.cache
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.AssemblyInfo.cs
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.csproj.CoreCompileInputs.cache
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.dll
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\refint\movies.dll
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.pdb
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\movies.genruntimeconfig.cache
+C:\Users\TIMMYTOBS\movies\obj\Debug\net8.0\ref\movies.dll
